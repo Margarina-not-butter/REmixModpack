@@ -1,0 +1,11 @@
+{
+  "idle": {
+    "timeout": 60
+  },
+  "battery_tracker": {
+    "enabled": true
+  },
+  "volume_transition_speed": {
+    "up": 0.5
+  }
+}
