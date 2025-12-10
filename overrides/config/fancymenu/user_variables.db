@@ -1,0 +1,32 @@
+type = user_variables
+
+variable {
+  name = show_remix_logo
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = show_menu_background
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = show_avatar_on_mainmenu
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = show_splash
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = show_tips_on_mainmenu
+  value = true
+  reset_on_launch = false
+}
+
