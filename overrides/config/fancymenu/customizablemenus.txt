@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.class_500 {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
