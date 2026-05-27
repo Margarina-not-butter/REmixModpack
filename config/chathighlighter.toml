@@ -1,0 +1,5 @@
+text = ["tenkuma"]
+color = 2147483392
+usePattern = false
+playSound = true
+sound = "block.note_block.bell"
