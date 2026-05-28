@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "RE:mix",
+      "address": "which-commons.gl.joinmc.link",
+      "resourcePackPolicy": "PROMPT"
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "hudLayout": {
     "enabled": true,
     "direction": "LEFT_TO_RIGHT",
-    "relativeToEnd": true,
+    "relativeToEnd": false,
     "thickness": 1,
     "collinearPadding": 3,
     "collinearOffset": 0,
